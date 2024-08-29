@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avi Tyagi</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="coding" width="400" scr="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif"/>
+<!-- <img align="right" alt="coding" width="400" scr="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avityagii&label=Profile%20views&color=0e75b6&style=flat" alt="avityagii" /> </p>
 
