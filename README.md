@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <p>🎯 To build the user-facing part of websites or web applications — the parts that users see, interact with, and experience directly.
 </p>
-<img align="right" alt="coding" width="400" scr="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif"/>
+<hr height=25rem  padding = 0 margin= var(--base-size-24) 0  background-color =  var(--borderColor-default, var(--color-border-default))  ></hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avityagii&label=Profile%20views&color=0e75b6&style=flat" alt="avityagii" /> </p>
 
