@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Java Full Stack**
 
 - 📫 How to reach me **avityagi787@gmail.com**
-- <hr height=25rem  padding = 0 margin= var(--base-size-24) 0  background-color =  var(--borderColor-default, var(--color-border-default))  ></hr>
+<hr height=25rem  padding = 0 margin= var(--base-size-24) 0  background-color =  var(--borderColor-default, var(--color-border-default))  ></hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
