@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Avi Tyagi </h1>
-<h3 align="left"> a student always eager to learn and explore new technologies. My GitHub journey reflects my love for web development and continuous learning in the AI/ML field.</h3>
-<h3 align="center"> 🎯A passionate Frontend Developer to build the user-facing part of websites or web applications — the parts that users see, interact with, and experience directly. </h3>
+<h3 align="left">A student always eager to learn and explore new technologies. My GitHub journey reflects my love for web development and continuous learning in the AI/ML field.</h3>
+<h3 align="center">🎯A passionate Frontend Developer to build the user-facing part of websites or web applications — the parts that users see, interact with, and experience directly.</h3>
 
 <hr height=25rem  padding = 0 margin= var(--base-size-24) 0  background-color =  var(--borderColor-default, var(--color-border-default))  ></hr>
 
