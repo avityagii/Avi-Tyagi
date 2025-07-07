@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/avi tyagi](https://www.linkedin.com/in/avi-tyagi-170610207)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avi tyagi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avi-tyagi-170610207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avi tyagi" height="30" width="40" /></a>
 </p>
 <hr height=25rem  padding = 0 margin= var(--base-size-24) 0  background-color =  var(--borderColor-default, var(--color-border-default))  ></hr>
 
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avityagii&show_icons=true&locale=en" alt="avityagii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avityagii&" alt="avityagii" /></p>
+
