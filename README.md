@@ -9,14 +9,17 @@
 - 🌱 I’m currently learning **Java Full Stack**
 
 - 📫 How to reach me **avityagi787@gmail.com**
+- <hr height=25rem  padding = 0 margin= var(--base-size-24) 0  background-color =  var(--borderColor-default, var(--color-border-default))  ></hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/avi tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avi tyagi" height="30" width="40" /></a>
 </p>
+<hr height=25rem  padding = 0 margin= var(--base-size-24) 0  background-color =  var(--borderColor-default, var(--color-border-default))  ></hr>
 
 <h3 align="left">Frontend : HTML , CSS , JavaScript , TypeScript</h3>
 <h3 align="left"> Libraries : Bootstrap, TailwindCSS, React ...</h3>
+<hr height=25rem  padding = 0 margin= var(--base-size-24) 0  background-color =  var(--borderColor-default, var(--color-border-default))  ></hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avityagii&show_icons=true&locale=en&layout=compact" alt="avityagii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avityagii&show_icons=true&locale=en" alt="avityagii" /></p>
